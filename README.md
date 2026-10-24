@@ -10,7 +10,8 @@ An operational analysis and executive dashboard built from **84,195 CFPB retail 
 
 ## 📊 Executive Dashboard Preview
 
-![Retail Banking Performance Dashboard](dashboard_preview.png)
+<img width="1536" height="954" alt="Retail Banking Performance Dashboard" src="https://github.com/user-attachments/assets/5731a836-9740-4253-904a-22da606d0faf" />
+
 
 ---
 
